@@ -1,2 +1,2 @@
-# pdf
+# project
 contains all files
